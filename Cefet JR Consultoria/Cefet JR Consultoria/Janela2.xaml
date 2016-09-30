@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="Janela2" Height="300" Width="300">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="169*"/>
+            <ColumnDefinition Width="123*"/>
+        </Grid.ColumnDefinitions>
+
     </Grid>
 </Window>

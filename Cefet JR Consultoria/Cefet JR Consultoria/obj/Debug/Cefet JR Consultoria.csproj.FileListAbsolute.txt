@@ -17,3 +17,18 @@ c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cef
 C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Cefet JR Consultoria.exe.config
 C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.exe
 C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.pdb
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Cefet JR Consultoria.exe
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Cefet JR Consultoria.pdb
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.csprojResolveAssemblyReference.cache
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Janela2.g.cs
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\JanelaCriarUsuario.g.cs
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\MainWindow.g.cs
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\App.g.cs
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria_MarkupCompile.cache
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria_MarkupCompile.lref
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Janela2.baml
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\JanelaCriarUsuario.baml
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\MainWindow.baml
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.g.resources
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet_JR_Consultoria.Properties.Resources.resources
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.csproj.GenerateResource.Cache

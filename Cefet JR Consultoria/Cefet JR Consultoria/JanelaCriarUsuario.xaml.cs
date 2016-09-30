@@ -10,26 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Cefet_JR_Consultoria
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for JanelaCriarUsuario.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class JanelaCriarUsuario : Window
     {
-        public MainWindow()
+        public JanelaCriarUsuario()
         {
             InitializeComponent();
-        }
-        
-        private void btnCriarUsuario_Click(object sender, RoutedEventArgs e)
-        {
-            this.Hide();
-            JanelaCriarUsuario janela = new JanelaCriarUsuario();
-            janela.Show();
         }
     }
 }
