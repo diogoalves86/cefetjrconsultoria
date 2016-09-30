@@ -1,0 +1,19 @@
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Cefet JR Consultoria.exe.config
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Cefet JR Consultoria.exe
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Cefet JR Consultoria.pdb
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.csprojResolveAssemblyReference.cache
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\MainWindow.g.cs
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\App.g.cs
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria_MarkupCompile.cache
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria_MarkupCompile.lref
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\MainWindow.baml
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.g.resources
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet_JR_Consultoria.Properties.Resources.resources
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.csproj.GenerateResource.Cache
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.exe
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.pdb
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Janela2.g.cs
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Janela2.baml
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Cefet JR Consultoria.exe.config
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.exe
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.pdb

@@ -1,0 +1,15 @@
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\bin\Release\Cefet JR Consultoria.exe.config
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\bin\Release\Cefet JR Consultoria.exe
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\bin\Release\Cefet JR Consultoria.pdb
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\Janela2.g.cs
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\MainWindow.g.cs
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\App.g.cs
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\Cefet JR Consultoria_MarkupCompile.cache
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\Cefet JR Consultoria_MarkupCompile.lref
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\Janela2.baml
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\MainWindow.baml
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\Cefet JR Consultoria.g.resources
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\Cefet_JR_Consultoria.Properties.Resources.resources
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\Cefet JR Consultoria.csproj.GenerateResource.Cache
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\Cefet JR Consultoria.exe
+c:\users\cefet jr\documents\visual studio 2015\Projects\Cefet JR Consultoria\Cefet JR Consultoria\obj\Release\Cefet JR Consultoria.pdb
