@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("cefet-jr-e1410500853191.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("banco.mdf")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("banco_log.ldf")]
 
 

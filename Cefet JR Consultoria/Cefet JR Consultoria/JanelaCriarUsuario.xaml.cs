@@ -11,6 +11,8 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Data.Entity;
+using System.Data.Entity.SqlServer;
 
 namespace Cefet_JR_Consultoria
 {
@@ -22,6 +24,29 @@ namespace Cefet_JR_Consultoria
         public JanelaCriarUsuario()
         {
             InitializeComponent();
+        }
+
+        private void btnLimparFormulario_Click(object sender, RoutedEventArgs e)
+        {
+            this.limparFormulario();
+        }
+
+        private void limparFormulario()
+        {
+            txtEmail.Clear();
+            txtNome.Clear();
+            txtSenha.Clear();
+        }
+
+        private void btnCriarUsuario_Click(object sender, RoutedEventArgs e)
+        {
+            this.criarUsuario();
+        }
+
+        private void criarUsuario()
+        {
+            Usuario usuario = new Usuario();
+
         }
     }
 }

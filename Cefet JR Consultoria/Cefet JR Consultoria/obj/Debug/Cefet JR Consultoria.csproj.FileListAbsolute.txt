@@ -32,3 +32,21 @@ C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR 
 C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.g.resources
 C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet_JR_Consultoria.Properties.Resources.resources
 C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.csproj.GenerateResource.Cache
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Cefet JR Consultoria.exe.config
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.exe
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.pdb
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Cefet JR Consultoria.exe
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Cefet JR Consultoria.pdb
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.csprojResolveAssemblyReference.cache
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Janela2.g.cs
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\JanelaCriarUsuario.g.cs
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\MainWindow.g.cs
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\App.g.cs
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria_MarkupCompile.cache
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria_MarkupCompile.lref
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Janela2.baml
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\JanelaCriarUsuario.baml
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\MainWindow.baml
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.g.resources
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet_JR_Consultoria.Properties.Resources.resources
+C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria.csproj.GenerateResource.Cache
