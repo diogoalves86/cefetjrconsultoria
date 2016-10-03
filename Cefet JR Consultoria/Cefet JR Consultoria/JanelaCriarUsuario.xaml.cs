@@ -11,8 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-using System.Data.Entity;
-using System.Data.Entity.SqlServer;
+using Cefet_JR_Consultoria.Database.Persistencia;
 
 namespace Cefet_JR_Consultoria
 {
@@ -21,6 +20,8 @@ namespace Cefet_JR_Consultoria
     /// </summary>
     public partial class JanelaCriarUsuario : Window
     {
+        private Usuario usuario = new Usuario();
+
         public JanelaCriarUsuario()
         {
             InitializeComponent();
@@ -40,12 +41,15 @@ namespace Cefet_JR_Consultoria
 
         private void btnCriarUsuario_Click(object sender, RoutedEventArgs e)
         {
-            this.criarUsuario();
+            this.criarUsuario(txtNome.Text, txtEmail.Text, txtSenha.Text);
         }
 
-        private void criarUsuario()
+        private void criarUsuario(string nome, string email, string senha)
         {
-            Usuario usuario = new Usuario();
+            if (this.usuario.criar(nome, email, senha))
+                MessageBox.Show("Usuario cadastrado com sucesso!");
+            else
+                MessageBox.Show("Erro ao cadastrar usuário. Tente novamente mais tarde.");
 
         }
     }

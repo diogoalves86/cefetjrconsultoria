@@ -81,10 +81,12 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Database\Contexto\Banco.cs" />
+    <Compile Include="Database\Conceitual\Usuario.cs" />
+    <Compile Include="Database\Persistencia\Usuario.cs" />
     <Compile Include="JanelaCriarUsuario.xaml.cs">
       <DependentUpon>JanelaCriarUsuario.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Usuario.cs" />
     <Page Include="Janela2.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -161,6 +163,10 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
