@@ -57,3 +57,10 @@ C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Cons
 C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Database\banco.mdf
 C:\Users\diogo_a8y32va\Documents\Repositorios\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Database\banco_log.ldf
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Database\banco.mdf
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\Database\banco_log.ldf
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\EntityFramework.dll
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\EntityFramework.xml
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CEFET Jr\Source\Repos\cefetjrconsultoria\Cefet JR Consultoria\Cefet JR Consultoria\obj\Debug\Cefet JR Consultoria_Content.g.cs
