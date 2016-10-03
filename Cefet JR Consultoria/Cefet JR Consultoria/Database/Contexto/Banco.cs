@@ -10,6 +10,9 @@ namespace Cefet_JR_Consultoria.Database.Contexto
 {
     class Banco:DbContext
     {
+        public Banco()
+            : base("name=Banco") { }
+       
         public virtual DbSet<Usuario> usuarios { get; set; }
     }
 }

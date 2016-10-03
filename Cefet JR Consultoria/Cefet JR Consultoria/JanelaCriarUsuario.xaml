@@ -5,10 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Cefet_JR_Consultoria"
         mc:Ignorable="d"
-        Title="JanelaCriarUsuario" Height="390.592" Width="508.646" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Foreground="White">
-    <Window.Background>
-        <ImageBrush ImageSource="Imagens/CEFET-Jr-e1410500853191.png" Opacity="0.325" Stretch="None"/>
-    </Window.Background>
+        Title="JanelaCriarUsuario" Height="390.592" Width="508.646" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Foreground="White" Background="#FFE2E2E2">
     <Grid Margin="0,0,0,11">
         <Grid.Background>
             <ImageBrush/>
@@ -18,13 +15,11 @@
             <ColumnDefinition Width="155*"/>
         </Grid.ColumnDefinitions>
         <Label x:Name="label" Content="Nome" HorizontalAlignment="Left" Margin="46,71,0,0" VerticalAlignment="Top" Height="27" Width="59"/>
-        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Height="36" Margin="46,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="404" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Height="24" Margin="46,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="404" Grid.ColumnSpan="2"/>
         <Label x:Name="label_Copy1" Content="E-mail" HorizontalAlignment="Left" Margin="46,144,0,0" VerticalAlignment="Top" Height="29" Width="59"/>
-        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="36" Margin="46,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="404" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="24" Margin="46,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="404" Grid.ColumnSpan="2"/>
         <Label x:Name="label_Copy2" Content="Senha" HorizontalAlignment="Left" Margin="47,219,0,0" VerticalAlignment="Top" Height="23" Width="58"/>
-        <TextBox x:Name="textBox_Copy2" HorizontalAlignment="Left" Height="37" Margin="46,258,0,-17" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="166"/>
-        <TextBox x:Name="textBox_Copy3" HorizontalAlignment="Left" Height="37" Margin="46,258,0,-17" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="166"/>
-        <TextBox x:Name="txtSenha" HorizontalAlignment="Left" Height="37" Margin="46,258,0,-17" TextWrapping="Wrap" VerticalAlignment="Top" Width="404" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtSenha" HorizontalAlignment="Left" Height="24" Margin="46,258,0,-17" TextWrapping="Wrap" VerticalAlignment="Top" Width="404" Grid.ColumnSpan="2"/>
         <Button x:Name="btnCriarUsuario" Content="Cadastrar usuário" HorizontalAlignment="Left" Margin="47,318,0,-5" VerticalAlignment="Top" Width="155" Click="btnCriarUsuario_Click"/>
         <Button x:Name="btnLimparFormulario" Content="Limpar formulário" HorizontalAlignment="Left" Margin="292,318,0,-5" VerticalAlignment="Top" Width="158" Grid.ColumnSpan="2" Click="btnLimparFormulario_Click"/>
         <Label x:Name="label1" Content="Preecha o formulário abaixo para cadastrar um novo usuário" HorizontalAlignment="Left" Margin="72,10,0,0" VerticalAlignment="Top"/>

@@ -143,10 +143,10 @@
     <Resource Include="Imagens\CEFET-Jr-e1410500853191.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="banco.mdf">
+    <Content Include="Database\banco.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="banco_log.ldf">
+    <Content Include="Database\banco_log.ldf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>banco.mdf</DependentUpon>
     </Content>
